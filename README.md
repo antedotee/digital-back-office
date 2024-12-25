@@ -50,6 +50,7 @@ MMRMMRMRRM
 
 - The program will terminate if an invalid command is encountered and print an error message.
 - Ensure that the input format is correct to avoid errors.
+- After giving all the input, give `Ctrl + D` to stop the input.
 
 ### Example output
 
