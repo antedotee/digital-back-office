@@ -50,7 +50,7 @@ MMRMMRMRRM
 
 - The program will terminate if an invalid command is encountered and print an error message.
 - Ensure that the input format is correct to avoid errors.
-- After giving all the input, write `Ctrl + D` to get the output.
+- After giving all the input, press `Ctrl + D` to get the output.
 
 ### Example output
 
